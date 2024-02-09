@@ -3,6 +3,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  grid-row: 3/4;
   display: grid;
   grid-template-rows: 200px 1fr;
 }
