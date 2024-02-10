@@ -11,9 +11,3 @@
   --primary: #dac404;
   --primaryHover: #dac50480;
 }
-
-.main .products-section,
-.main .contacts-section,
-.main .footer-section {
-  display: none;
-}
